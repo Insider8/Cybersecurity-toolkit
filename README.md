@@ -23,6 +23,6 @@ A collection of beginner-friendly, real-world Python scripts for cybersecurity a
 Clone the repo and run any script:
 
 ```bash
-git clone https://github.com/insider8/cybersecurity-toolkit.git
+git clone https://github.com/Insider8/cybersecurity-toolkit.git
 cd cybersecurity-toolkit/suspicious-file-scanner
 python scanner.py
