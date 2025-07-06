@@ -1,4 +1,3 @@
-/suspicious-file-scanner/scanner.py
 import os
 
 # Define suspicious file extensions
